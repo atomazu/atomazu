@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @atomazu
+- 👀 I’m interested in media design and many other things involving computer science.
+- 🌱 I’m currently learning web based applications.
+- 📫 How to reach me: @atomazu on twitter or atomazu#6950 on discord.
